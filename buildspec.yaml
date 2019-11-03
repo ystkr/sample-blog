@@ -13,5 +13,5 @@ phases:
     - hexo generate
 artifacts:
   files:
-    - ’**/*’
-  base-directory: ’public’
+    - '**/*'
+  base-directory: 'public'
